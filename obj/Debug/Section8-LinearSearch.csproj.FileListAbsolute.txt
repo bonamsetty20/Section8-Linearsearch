@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\bin\Debug\Section8-LinearSearch.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\bin\Debug\Section8-LinearSearch.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\bin\Debug\Section8-LinearSearch.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\obj\Debug\Section8-LinearSearch.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\obj\Debug\Section8-LinearSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\obj\Debug\Section8-LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\obj\Debug\Section8-LinearSearch.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-LinearSearch\Section8-LinearSearch\obj\Debug\Section8-LinearSearch.pdb
